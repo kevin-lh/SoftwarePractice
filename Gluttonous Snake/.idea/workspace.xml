@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b198d1bd-45b4-4582-8c3e-bb98a4ac7999" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jv4pBJedZQXGQwJUGzNkCO6Lpo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DEMO" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStorm\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStorm\Gluttonous Snake" />
+      <recent name="D:\WebStorm\Gluttonous Snake\Resources" />
+      <recent name="D:\WebStorm\Gluttonous Snake\Controler" />
+      <recent name="D:\WebStorm\Gluttonous Snake\Model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b198d1bd-45b4-4582-8c3e-bb98a4ac7999" name="Default Changelist" comment="" />
+      <created>1604671411567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604671411567</updated>
+      <workItem from="1604671412744" duration="7000" />
+      <workItem from="1605411231957" duration="6451000" />
+      <workItem from="1605524412320" duration="1330000" />
+      <workItem from="1605789978589" duration="24000" />
+      <workItem from="1607066483125" duration="16484000" />
+      <workItem from="1607172676771" duration="1231000" />
+      <workItem from="1607215622042" duration="25244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607066547606">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="514" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1607066547606" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607307519331">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1607307519331" />
+    <state x="431" y="132" key="FileChooserDialogImpl" timestamp="1607218820181">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="132" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1607218820181" />
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom" timestamp="1607392231474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607392231474" />
+    <state width="1515" height="178" key="GridCell.Tab.0.center" timestamp="1607392231474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1607392231474" />
+    <state width="1515" height="178" key="GridCell.Tab.0.left" timestamp="1607392231474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1607392231474" />
+    <state width="1515" height="178" key="GridCell.Tab.0.right" timestamp="1607392231474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1607392231474" />
+    <state x="45" y="135" key="search.everywhere.popup" timestamp="1607220798768">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="45" y="135" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1607220798768" />
+  </component>
+</project>

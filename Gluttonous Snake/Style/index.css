@@ -1,0 +1,57 @@
+body{
+    background-color: whitesmoke;
+}
+/*主窗体*/
+#main{
+    height: 500px;
+    width: 700px;
+    /*border: 1px solid red;*/
+    margin: 15px auto;
+    background-color: rgba(236, 236, 244);
+}
+/*右侧控制窗口*/
+#control{
+    height: 480px;
+    width: 190px;
+    margin-left: 500px;
+    margin-top: 10px;
+    background-color:whitesmoke;
+}
+#control #SnakeImage{
+    width: 187px;
+    height: 114px;
+    /*border: 1px solid red;*/
+    background-image: url("../Resources/timg.jpg");
+}
+
+
+.game{
+    /*margin: 50px auto 0;*/
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+.row{
+    overflow: hidden;
+}
+.column{
+    float: left;
+    width: 18px;
+    height: 18px;
+    border: 1px solid rgba(217, 217, 225);
+}
+#Score{
+    position: fixed;
+    top: 150px;
+    right: 90px;
+    font-family: Muyao-Softbrush;
+    font-size: 25px;
+    text-align:center;
+    font-weight: bold;
+    color: limegreen;
+    /*transform: translateX(-50%);*/
+}
+#startBtn:hover{
+    margin-top: -5px;
+}
