@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<div class="container" style="float: right;margin-top: 400px">
+    <div class="radio">
+        <input id="radio-1" name="radio" type="radio" checked>
+        <label for="radio-1" class="radio-label">自动</label>
+    </div>
+    <div class="radio" >
+        <input id="radio-2" name="radio" type="radio">
+        <label  for="radio-2" class="radio-label">操控</label>
+    </div>
+</div>
+
+<div style="font-family: Muyao-Softbrush;font-size: 20px;float:left;margin-top: 400px">
+    <p>步数：<label id="count">0</label></p>
+</div>
+<div>
+    <p style="font-family: Muyao-Softbrush;font-size: 30px;margin-left:220px;color: black">迷宫小游戏</p>
+</div>
+<div id="maze">
+    <table border="1" class="t">
+    </table>
+    <button onclick="start()" class="btn btn-success  active" style="margin-left: 40px">start</button>
+    <button onclick="reset()" class="btn btn-success  active" style="margin-left: 80px">reset</button>
+</div>
+
+<script src="index.js"></script>
+<script>
+    function reset() {
+        document.querySelector('table').innerHTML='';
+        maze.generate();
+        maze.drawDom();
+        maze.findPath();
+    }
+    function start() {
+        // document.querySelector('table').innerHTML='';
+        maze.Animation();
+    }
+    let maze = new Maze(8,8, [1, 0], [15, 15],100);
+    maze.init();
+</script>
+</body>
+</html>
